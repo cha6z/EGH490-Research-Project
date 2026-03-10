@@ -33,44 +33,14 @@ The project investigates the design and analysis of a waveguide slot array anten
 
 ---
 
-## Repository Structure
+## Single Slot Parameters
 
-/report          → Final submitted report (PDF and LaTeX source)  
-/analysis        → Mathematical derivations and theoretical modelling  
-/simulations     → Electromagnetic simulation files and results  
-/design          → CAD models and mechanical drawings  
-/figures         → Generated plots and technical diagrams  
-/literature      → Key references and annotated notes  
-/raw-research    → Working documents and intermediate drafts  
+| Column 1 | Column 2 |
+|----------|----------|
+| Row 1A   | Row 1B   |
+| Row 2A   | Row 2B   |
 
----
 
-## Technical Scope
-
-The repository includes:
-
-- Waveguide mode analysis  
-- Slot coupling theory  
-- Array factor derivation  
-- Radiation pattern modelling  
-- Impedance considerations  
-- Numerical validation against analytical predictions  
-
-All modelling assumptions and boundary conditions are documented where applicable.
-
----
-
-## Methodology
-
-The research follows a structured engineering approach:
-
-1. Analytical derivation of waveguide field distributions  
-2. Application of array theory for radiation synthesis  
-3. Numerical simulation and parameter optimisation  
-4. Structural evaluation for manufacturability  
-5. Performance validation against theoretical expectations  
-
----
 
 ## Academic Context
 
