@@ -37,7 +37,7 @@ The project investigates the design and analysis of a waveguide slot array anten
 
 | Parameter | Expression | Description | Value |
 |----------|----------|----------|----------|
-| Row 1A   | Row 1B   | Row 1C   | Row 1D   |
+| a   | -   | Broadwall dimensions (WR-90 standard)   | 22.86 mm   |
 | Row 2A   | Row 2B   | Row 2C   | Row 2D   |
 | Row 1A   | Row 1B   | Row 1C   | Row 1D   |
 | Row 2A   | Row 2B   | Row 2C   | Row 2D   |
