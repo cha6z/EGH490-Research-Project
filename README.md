@@ -35,12 +35,22 @@ The project investigates the design and analysis of a waveguide slot array anten
 
 ## Single Slot Parameters
 
-| Parameter | Expression | Description | Value |
-|----------|----------|----------|----------|
-| a   | -   | Broadwall dimensions (WR-90 standard)   | 22.86 mm   |
-| Row 2A   | Row 2B   | Row 2C   | Row 2D   |
-| Row 1A   | Row 1B   | Row 1C   | Row 1D   |
-| Row 2A   | Row 2B   | Row 2C   | Row 2D   |
+| Parameter | Expression | Description | Value (mm) |
+|-----------|------------|-------------|------------|
+| a | – | Broad-wall dimension (WR-90 standard) [1] | 22.86 |
+| b | – | Narrow-wall dimension [1] | 10.16 |
+| t | – | Wall thickness | 1.27 |
+| f | – | Operating frequency (GHz) | 9.0 |
+| λ₁₀ | 1000 / √((f / 0.299792458)² − (500 / a)²) | Guided wavelength (TE₁₀ mode) [2] | 48.63 |
+| w | – | Slot width (≈ 0.035a) [3] | 1.59 |
+| Z_wave | f × 1.256637 × λ₁₀ | Analytical wave impedance [4] | 549.99 Ω |
+| a_cavity | – | Cavity width | 12.0 |
+| b_cavity | – | Cavity height | 5.0 |
+| d_cavity | – | Cavity depth (initial) | 18.0 |
+| L_cav | – | Cavity length (variable) | 15.4 |
+| X_cav | – | Slot offset from waveguide centreline | 1.0 |
+| δ | – | Slot length correction factor | 0.0 |
+
 
 
 ## Academic Context
