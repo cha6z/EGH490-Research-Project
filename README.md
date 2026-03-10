@@ -1,4 +1,4 @@
-# EGH490 — Research Project 
+# EGH490 — Research Project (EGH490-1 & EGH490-2)
 **Honours Research Project**  
 Queensland University of Technology (QUT)  
 Supervised by Dr Jacob Coetzee  
