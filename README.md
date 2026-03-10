@@ -35,11 +35,12 @@ The project investigates the design and analysis of a waveguide slot array anten
 
 ## Single Slot Parameters
 
-| Column 1 | Column 2 |
-|----------|----------|
-| Row 1A   | Row 1B   |
-| Row 2A   | Row 2B   |
-
+| Parameter | Column 2 | Column 3 | Column 4 |
+|----------|----------|----------|----------|
+| Row 1A   | Row 1B   | Row 1C   | Row 1D   |
+| Row 2A   | Row 2B   | Row 2C   | Row 2D   |
+| Row 1A   | Row 1B   | Row 1C   | Row 1D   |
+| Row 2A   | Row 2B   | Row 2C   | Row 2D   |
 
 
 ## Academic Context
