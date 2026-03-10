@@ -1,4 +1,4 @@
-# EGH490 — Research Project 2  
+# EGH490 — Research Project 
 **Honours Research Project**  
 Queensland University of Technology (QUT)  
 Supervised by Dr Jacob Coetzee  
@@ -7,7 +7,7 @@ Supervised by Dr Jacob Coetzee
 
 ## Overview
 
-This repository contains the research, analysis, modelling, and documentation developed for **EGH490-1 through to EGH490-2, Research Project 1 and Research Project 2 respectively**, completed in partial fulfilment of the requirements for the Bachelor of Engineering (Honours).
+This repository contains the research, analysis, modelling, and documentation developed for **EGH490-1** through to **EGH490-2**, **Research Project 1** and **Research Project 2** respectively**. This research project is completed in partial fulfilment of the requirements for the Bachelor of Engineering (Honours).
 
 The project extends the foundations established in EGH490-1 and advances the analytical depth, modelling precision, and technical validation of the proposed system.
 
